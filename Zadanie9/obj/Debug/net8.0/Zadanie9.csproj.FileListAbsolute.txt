@@ -12,3 +12,4 @@ C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\refint\Zadanie9
 C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.pdb
 C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.genruntimeconfig.cache
 C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\ref\Zadanie9.dll
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\bin\Debug\net8.0\Zadanie9.exe
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\bin\Debug\net8.0\Zadanie9.deps.json
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\bin\Debug\net8.0\Zadanie9.runtimeconfig.json
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\bin\Debug\net8.0\Zadanie9.dll
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\bin\Debug\net8.0\Zadanie9.pdb
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.AssemblyInfoInputs.cache
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.AssemblyInfo.cs
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.csproj.CoreCompileInputs.cache
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.dll
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\refint\Zadanie9.dll
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.pdb
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\Zadanie9.genruntimeconfig.cache
+C:\Users\Sys\Desktop\Zadanie9\Zadanie9\Zadanie9\obj\Debug\net8.0\ref\Zadanie9.dll
